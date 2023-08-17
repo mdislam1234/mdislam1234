@@ -1,6 +1,10 @@
 ### Hi there 👋
-##### Welcome to my Github page!
-##### My skills: SQL, R, Python..
+Hi there 👋
+I am a OSU Courant graduate and a Jr. Data Scientist  🦸‍♂️✨
+Here are some of my skills,
+ML Frameworks: PyTorch, Tensorflow, Scikit-Learn, HuggingFace, XGBoost, SciPy
+Other CS Tools:  Flask, Git, ...
+Programming Languages: Python, R
 
 <!--
 **mdislam1234/mdislam1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
