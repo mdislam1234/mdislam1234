@@ -1,5 +1,5 @@
 ### Hi there 👋
-###### I am a OSU Courant graduate and a Jr. Data Scientist  🦸‍♂️✨
+###### I am an OSU graduate and a Jr. Data Scientist  🦸‍♂️✨
 #### Here are some of my skills,
 ###### ML Frameworks: PyTorch, Tensorflow, Scikit-Learn, HuggingFace, XGBoost, SciPy
 ###### Other CS Tools:  Flask, Git, ...
